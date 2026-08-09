@@ -1,4 +1,4 @@
-# Hi, I'm Maedeh Attari 👋
+# Hi, I'm Maedeh Sheikhattari 👋
 
 ## About Me
 Civil Engineering graduate passionate about Sustainable Building Engineering, infrastructure development, and computational methods in engineering. I enjoy combining engineering knowledge with digital tools to create sustainable and efficient solutions for the built environment.
