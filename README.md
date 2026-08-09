@@ -1,11 +1,14 @@
 # Hi, I'm Maedeh Sheikhattari 👋
 
 ## About Me
-Civil Engineering graduate passionate about Sustainable Building Engineering, infrastructure development, and computational methods in engineering. I enjoy combining engineering knowledge with digital tools to create sustainable and efficient solutions for the built environment.
+Civil Engineering graduate with a strong interest in Sustainable Building Engineering, Green Building Design, Building Energy Performance, and infrastructure development. Passionate about applying engineering principles and digital technologies to create sustainable, energy-efficient, and resilient built environments.
 
 ## 🎓 Education
+- M.Sc. in Building Engineering (Currently Studying)
+  - Politecnico di Torino, Italy
+  
 - B.Sc. in Civil Engineering
-- Interested in Sustainable Building Engineering and Environmental Design
+  - University of Kurdistan, Iran
 
 ## 🛠️ Technical Skills
 - **Structural Analysis:** ETABS, SAP2000
@@ -28,8 +31,5 @@ Civil Engineering graduate passionate about Sustainable Building Engineering, in
 - Contributing to research and open-source projects
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/maedeh-attari
-- Email: your.email@example.com
-
----
-*"Engineering sustainable solutions for the future."*
+- LinkedIn: linkedin.com/in/maedeh-sheikhattari-4a1844354
+- Email: maedeh.attari77@gmail.com
